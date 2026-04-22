@@ -1,0 +1,10 @@
+/target
+/Cargo.lock
+**/*.rs.bk
+*.out
+bench.fasta
+bench.primers
+arabidopsis.primers
+scaling.primers
+temp_scale.fa
+arabidopsis_subset.fa
