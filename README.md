@@ -17,7 +17,7 @@ A fast, parallelized Rust implementation of the EMBOSS `primersearch` tool.
 Ensure you have [Rust and Cargo](https://rustup.rs/) installed.
 
 ```bash
-git clone https://github.com/yourusername/primersearch-rs.git
+git clone https://github.com/dgutierrezcastillo/primersearch-rs.git
 cd primersearch-rs
 cargo build --release
 ```
